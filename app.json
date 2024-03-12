@@ -1,7 +1,7 @@
 
 {
 
-    "name": "PARADISE",
+    "name": "CAPTION",
 
     "description": "A Modular telegram bot.",
 
@@ -32,21 +32,21 @@
         "BOT_TOKEN": {
 
             "description": "Your Bot token from @Botfather",
-            "value": "6835537660:AAGy3X3D2JqDc7YUYjSZOdKCfJRzBT5IMNk"
+            "value": "6701068023:AAHs8Uf4M230KLwa80HYdjFx9zRO88K1Byw"
 
         },
 
         "API_ID": {
 
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "23455230"
+            "value": "20319884"
 
         },
 
         "API_HASH": {
 
             "description": "Your API_HASH from https://my.telegram.org/apps",
-            "value": "1740e4541ec18b9cdd3e5ff6f3687d46"
+            "value": "637e3ba6357aa3ba2f3bf5742e0fd066"
 
         }
 
